@@ -10,7 +10,7 @@ import img5 from '../images/img-3.jpg';
 function Cards() {
   return (
     <div className='cards'>
-      <h1>yees everything about opportunities and im looking for mine</h1>
+      <h1>yees everything about opportunities and i'm looking for mine</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
